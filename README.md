@@ -1,2 +1,2 @@
 # django-rest-tutorial
-Tutorial for learning the Django Rest Framework, while building a recipe app
+Recipe App Tutorial for learning the Django Rest Framework. Tutorial Link - [Here](https://www.udemy.com/django-python-advanced/)
